@@ -84,6 +84,8 @@
 
 ###
 
+<br clear="both">
+
 <img data-importer="snake" src="https://raw.githubusercontent.com/sarogaming2875-pixel/sarogaming2875-pixel/snake-output/snake.svg" alt="Snake animation" />
 
 ###
